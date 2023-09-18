@@ -16,7 +16,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaoziman)](https://github.com/anuraghazra/github-readme-stats)
 
-#[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
