@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in a energy Company.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java.
-- 📫 How to reach me: M2942894660@163.com
+- 📫 How to reach me: 2942894660@qq.com
 - 😄 Read more about my CSDN: [Leo](https://gaoziman.blog.csdn.net/)
 - 🥳 Read more about my Blog: [Leo](https://manamn.space/)
 
