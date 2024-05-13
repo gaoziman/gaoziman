@@ -32,10 +32,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ### 我的成就
 ![](https://stats.justsong.cn/api/github?username=gaoziman&theme=dark)
-![](https://stats.justsong.cn/api/csdn?id=qq_58608526&theme=dark)
 ![](https://stats.justsong.cn/api/juejin?id=2467719176022094&theme=dark)
-![](https://stats.justsong.cn/api/zhihu?username=yan-yu-16-31-21&theme=dark)
-
 
 ## 交个朋友 👬🏻
 
