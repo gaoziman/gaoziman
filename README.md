@@ -5,9 +5,7 @@
 - 💬 Ask me about anything related to Java.
 - 📫 How to reach me: 2942894660@qq.com
 - 😄 Read more about my CSDN: [Leo](https://gaoziman.blog.csdn.net/)
-- 🥳 Read more about my Blog: [Leo](https://manamn.space/)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+- 🥳 Read more about my Blog: [知识库](https://gaoziman.github.io/toLeoJavaer/)
 
 ## ✨ 我的技能(my skills)   
 
@@ -22,6 +20,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
+
+## 今年汇总(This year's summary) ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhccong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoziman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## Action
 ![Leo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaoziman&layout=compact&hide_border=true&langs_count=10)
