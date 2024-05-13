@@ -30,13 +30,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhccong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoziman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
-### Social
+### 我的成就
 ![](https://stats.justsong.cn/api/github?username=gaoziman&theme=dark)
 ![](https://stats.justsong.cn/api/csdn?id=qq_58608526&theme=dark)
 ![](https://stats.justsong.cn/api/juejin?id=2467719176022094&theme=dark)
 ![](https://stats.justsong.cn/api/zhihu?username=yan-yu-16-31-21&theme=dark)
 
 
+## 交个朋友 👬🏻
 
-## GitHub Readme Activity Graph
-[![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaoziman&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
