@@ -5,7 +5,7 @@
 - 💬 Ask me about anything related to Java.
 - 📫 How to reach me: 2942894660@qq.com
 - 😄 Read more about my CSDN: [Leo](https://gaoziman.blog.csdn.net/)
-- 🥳 Read more about my Blog: [知识库](https://gaoziman.github.io/toLeoJavaer/)
+- 🥳 Read more about my Blog: [知识库](https:/leocoder.cn/)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
 
